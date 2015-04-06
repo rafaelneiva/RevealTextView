@@ -100,8 +100,8 @@ public class RevealTextView extends TextView {
         }
 
 //        for (int i = 0; i < mAlphas.length; i++) {
-////            mAlphas[i] = Math.random() - 1; // on random the letters appears random :o
-////            mAlphas[i] = i - 1;
+//            mAlphas[i] = Math.random() - 1; // on random the letters appears random :o
+//            mAlphas[i] = i - 1;
 //            mAlphas[0] = -1;
 //            mAlphas[1] = -0.9;
 //            mAlphas[2] = -0.8;

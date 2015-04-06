@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Example</string>
+    <string name="hello_world">Reveal TextView. Hello World!</string>
+    <string name="action_settings">Settings</string>
+</resources>
